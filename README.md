@@ -29,6 +29,7 @@ All works (videos/gifs) have been shown in the video shown above
 
 
 References:
+Stack Overflow for shader codes/assistance
 
 Metal texture reference for the walls to also somewhat simulate metal walls that has a normal map that can be used to adjust the _Metallic scale.
 https://www.vecteezy.com/photo/3096868-dark-concrete-texture-wall-background-black-grunge-cement-wall
